@@ -1,0 +1,2 @@
+# Postpartum-Health-Monitoring-for-Rural-Women-mobile-app-sends-alerts
+This project aims to develop a mobile-based postpartum health monitoring system designed specifically for rural women. The system helps in tracking the physical and emotional health of new mothers after childbirth and automatically sends alerts to healthcare workers, family members, or ASHA workers when abnormal conditions are detected.
